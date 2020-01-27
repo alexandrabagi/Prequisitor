@@ -1,4 +1,2 @@
-# BottomNavViewWithFragments
-Bottom navigation view with fragment. prevent fragment recreation.
-
-Demo: https://youtu.be/Xj4ADyRpVWM
+Research Project at IT University of Copenhagen
+Prequisitor - Exploring Prerequisites for Image User Relevance Feedback on Android Mobile Phones
